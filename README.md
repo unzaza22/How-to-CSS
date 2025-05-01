@@ -24,3 +24,16 @@
 - [Background Color](https://www.w3schools.com/css/css_background.asp)
 - [Background Image](https://www.w3schools.com/css/css_background_image.asp)
 - [Background Repeat](https://www.w3schools.com/css/css_background_repeat.asp)
+- [Background Attachment](https://www.w3schools.com/css/css_background_attachment.asp)
+- [Background Shorthand](https://www.w3schools.com/css/css_background_shorthand.asp)
+</details>
+
+<details>
+<summary>CSS Borders</summary>
+
+- [Border](https://www.w3schools.com/css/css_border.asp)
+- [Border Width](https://www.w3schools.com/css/css_border_width.asp)
+- [Border Color](https://www.w3schools.com/css/css_border_color.asp)
+- [Border Sides](https://www.w3schools.com/css/css_border_sides.asp)
+
+</details>
