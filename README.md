@@ -18,3 +18,9 @@
 - [HSL](https://www.w3schools.com/css/css_colors_hsl.asp)
 </details>
 
+<details>
+<summary>CSS Backgrounds</summary>
+
+- [Background Color](https://www.w3schools.com/css/css_background.asp)
+- [Background Image](https://www.w3schools.com/css/css_background_image.asp)
+- [Background Repeat](https://www.w3schools.com/css/css_background_repeat.asp)
