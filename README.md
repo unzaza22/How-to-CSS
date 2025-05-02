@@ -50,3 +50,8 @@
 - [CSS Height/Width](https://www.w3schools.com/css/css_dimension.asp)
 - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 
+<detials>
+<summary>CSS Outline</summary>
+
+- [Outline](https://www.w3schools.com/css/css_outline.asp)
+</details>
