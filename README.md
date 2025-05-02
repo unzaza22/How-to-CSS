@@ -35,5 +35,18 @@
 - [Border Width](https://www.w3schools.com/css/css_border_width.asp)
 - [Border Color](https://www.w3schools.com/css/css_border_color.asp)
 - [Border Sides](https://www.w3schools.com/css/css_border_sides.asp)
-
+- [Border Shorthand](https://www.w3schools.com/css/css_border_shorthand.asp)
+- [Round Borders(กรอบโค้ง)](https://www.w3schools.com/css/css_border_rounded.asp)
 </details>
+
+<details>
+<summary>CSS Margins</summary>
+
+- [Margins](https://www.w3schools.com/css/css_margin.asp)
+- [Margin Collapse](https://www.w3schools.com/css/css_margin_collapse.asp)
+</details>
+
+- [CSS Padding](https://www.w3schools.com/css/css_padding.asp)
+- [CSS Height/Width](https://www.w3schools.com/css/css_dimension.asp)
+- [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
+
