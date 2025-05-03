@@ -16,6 +16,7 @@
 - [RGB](https://www.w3schools.com/css/css_colors_rgb.asp)
 - [HEX](https://www.w3schools.com/css/css_colors_hex.asp)
 - [HSL](https://www.w3schools.com/css/css_colors_hsl.asp)
+<hr>
 </details>
 
 <details>
@@ -26,6 +27,7 @@
 - [Background Repeat](https://www.w3schools.com/css/css_background_repeat.asp)
 - [Background Attachment](https://www.w3schools.com/css/css_background_attachment.asp)
 - [Background Shorthand](https://www.w3schools.com/css/css_background_shorthand.asp)
+<hr>
 </details>
 
 <details>
@@ -37,6 +39,7 @@
 - [Border Sides](https://www.w3schools.com/css/css_border_sides.asp)
 - [Border Shorthand](https://www.w3schools.com/css/css_border_shorthand.asp)
 - [Round Borders(กรอบโค้ง)](https://www.w3schools.com/css/css_border_rounded.asp)
+<hr>
 </details>
 
 <details>
@@ -44,14 +47,41 @@
 
 - [Margins](https://www.w3schools.com/css/css_margin.asp)
 - [Margin Collapse](https://www.w3schools.com/css/css_margin_collapse.asp)
+<hr>
 </details>
 
 - [CSS Padding](https://www.w3schools.com/css/css_padding.asp)
 - [CSS Height/Width](https://www.w3schools.com/css/css_dimension.asp)
 - [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp)
 
-<detials>
+<details>
 <summary>CSS Outline</summary>
 
 - [Outline](https://www.w3schools.com/css/css_outline.asp)
+- [Outline Width](https://www.w3schools.com/css/css_outline_width.asp)
+- [Outline Color](https://www.w3schools.com/css/css_outline_color.asp)
+- [Outline Shorthand](https://www.w3schools.com/css/css_outline_shorthand.asp)
+- [Outline Offset](https://www.w3schools.com/css/css_outline_offset.asp)
+<hr>
 </details>
+
+<details>
+<summary>CSS Text</summary>
+
+- [Text Color](https://www.w3schools.com/css/css_text.asp)
+- [Text Alignment](https://www.w3schools.com/css/css_text_align.asp)
+- [Text Decoration](https://www.w3schools.com/css/css_text_decoration.asp)
+- [Text Transformation](https://www.w3schools.com/css/css_text_transformation.asp)
+- [Text Spacing](https://www.w3schools.com/css/css_text_transformation.asp)
+- [Text Shadow](https://www.w3schools.com/css/css_text_shadow.asp)
+<hr>
+</details>
+
+<details>
+<summary>CSS Fonts</summary>
+
+- [Font Family](https://www.w3schools.com/css/css_font.asp)
+- [Font Web Safe](https://www.w3schools.com/css/css_font_websafe.asp)
+
+<hr>
+</detials>
