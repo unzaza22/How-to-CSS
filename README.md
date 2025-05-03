@@ -82,6 +82,13 @@
 
 - [Font Family](https://www.w3schools.com/css/css_font.asp)
 - [Font Web Safe](https://www.w3schools.com/css/css_font_websafe.asp)
-
+- [Font Fallbacks](https://www.w3schools.com/css/css_font_fallbacks.asp)
+- [Font Style](https://www.w3schools.com/css/css_font_style.asp)
+- [Font Size](https://www.w3schools.com/css/css_font_size.asp)
+- [Font Shorthand](https://www.w3schools.com/css/css_font_shorthand.asp)
 <hr>
-</detials>
+</details>
+
+- [CSS Icons](https://www.w3schools.com/css/css_icons.asp)
+- [CSS Links](https://www.w3schools.com/css/css_link.asp
+)
