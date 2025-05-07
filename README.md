@@ -90,5 +90,5 @@
 </details>
 
 - [CSS Icons](https://www.w3schools.com/css/css_icons.asp)
-- [CSS Links](https://www.w3schools.com/css/css_link.asp
-)
+- [CSS Links](https://www.w3schools.com/css/css_link.asp)
+- [CSS Lists](https://www.w3schools.com/css/css_list.asp)
