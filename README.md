@@ -92,3 +92,17 @@
 - [CSS Icons](https://www.w3schools.com/css/css_icons.asp)
 - [CSS Links](https://www.w3schools.com/css/css_link.asp)
 - [CSS Lists](https://www.w3schools.com/css/css_list.asp)
+
+<details>
+<summary>CSS Table</summary>
+
+- [Table Borders](https://www.w3schools.com/css/css_table.asp)
+- [Table Size](https://www.w3schools.com/css/css_table_size.asp)
+- [Table Alignment](https://www.w3schools.com/css/css_table_align.asp)
+- [Table Style](https://www.w3schools.com/css/css_table_style.asp)
+- [Table Responsive](https://www.w3schools.com/css/css_table_responsive.asp)
+<hr>
+</details>
+
+- [CSS Display](https://www.w3schools.com/css/css_display_visibility.asp)
+- [CSS Max-width](https://www.w3schools.com/css/css_max-width.asp)
