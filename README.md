@@ -113,4 +113,10 @@
 <details>
 <summary>CSS Float</summary>
 
+- [Float](https://www.w3schools.com/css/css_float.asp)
+- [Clear](https://www.w3schools.com/css/css_float_clear.asp)
+- [Float Examples](https://www.w3schools.com/css/css_float_examples.asp)
 </details>
+
+- [CSS Inline-block](https://www.w3schools.com/css/css_inline-block.asp)
+- [CSS Align](https://www.w3schools.com/css/css_align.asp)
