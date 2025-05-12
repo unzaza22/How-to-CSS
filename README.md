@@ -120,3 +120,27 @@
 
 - [CSS Inline-block](https://www.w3schools.com/css/css_inline-block.asp)
 - [CSS Align](https://www.w3schools.com/css/css_align.asp)
+- [CSS Combinators](https://www.w3schools.com/css/css_combinators.asp)
+- [CSS Pseudo-classes](https://www.w3schools.com/css/css_pseudo_classes.asp)
+- [CSS Pseudo-elements](https://www.w3schools.com/css/css_pseudo_elements.asp)
+- [CSS Opacity](https://www.w3schools.com/css/css_image_transparency.asp)
+
+<details>
+<summary>CSS Navigation Bar</summary>
+
+- [Navbar](https://www.w3schools.com/css/css_navbar.asp)
+- [Vertical Navbar](https://www.w3schools.com/css/css_navbar_vertical.asp)
+- [Horizontal Navbar](https://www.w3schools.com/css/css_navbar_horizontal.asp)
+</details>
+
+- [CSS Dropdowns](https://www.w3schools.com/css/css_dropdowns.asp)
+- [CSS Image Gallery](https://www.w3schools.com/css/css_image_gallery.asp)
+- [CSS Image Sprites](https://www.w3schools.com/css/css_image_sprites.asp)
+- [CSS Attr Selectors](https://www.w3schools.com/css/css_attribute_selectors.asp)
+- [CSS Forms](https://www.w3schools.com/css/css_form.asp)
+- [CSS Counters](https://www.w3schools.com/css/css_counters.asp)
+- [CSS Website Layout](https://www.w3schools.com/css/css_website_layout.asp)
+- [CSS Units](https://www.w3schools.com/css/css_units.asp)
+- [CSS Specificity](https://www.w3schools.com/css/css_specificity.asp)
+- [CSS !important](https://www.w3schools.com/css/css_important.asp)
+- [CSS Math Functions](https://www.w3schools.com/css/css_math_functions.asp)
